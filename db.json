@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "user1": {
+        "id": 1,
+        "hasheduser": "81b637d8fcd2c6da6359e6963113a1170de795e4b725b84d1e0b4cfd9ec58ce9",
+        "hashedpw": "2e91aa6307e5256f559cfc48592ac778c73e149c913bf6da435b607ff8ccdb85"
+      }
+    },
+    {
+      "user2": {
+        "id": 2,
+        "hasheduser": "9c0ada37bf74aeefae949fdfc90db0cf6eaf90192eff67d65887771f0585e055",
+        "hashedpw": "9c0ada37bf74aeefae949fdfc90db0cf6eaf90192eff67d65887771f0585e055"
+      }
+    },
+    {
+      "user3": {
+        "id": 3,
+        "hasheduser": "42d8b468770859cab377c2d592870643b10bb0c82df1b16b5e7caf8cffc60c3a",
+        "hashedpw": "4f0d84d069c3a71863d22c7ad84ef7613d51f740bfb3ccdbfae5b33cec43557f"
+      }
+    }
+  ]
+}
